@@ -1,4 +1,4 @@
-Title:Retail Demand Forecasting & Inventory Optimization
+Title : Retail Demand Forecasting & Inventory Optimization
 
 A data science and machine learning project that analyzes historical retail sales data, forecasts future demand, and generates inventory optimization recommendations such as safety stock, reorder points, and Economic Order Quantity (EOQ).
 
